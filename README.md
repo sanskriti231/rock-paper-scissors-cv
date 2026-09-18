@@ -108,6 +108,9 @@ This produces a 5-value list `[thumb, index, middle, ring, pinky]` of 0s
 5. **Result** - the winner is calculated and shown on screen.
 6. Press `SPACE` again for another round, or `Q` to quit.
 
+![sample image 1](public/image.png)
+![sample image 2](public/image2.png)
+
 ## Future improvements
 
 - Support two hands / two-player mode
